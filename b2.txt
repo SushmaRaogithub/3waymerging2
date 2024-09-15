@@ -1,2 +1,6 @@
+modifing<<<<<<< HEAD
 b2 added again
 new b2
+=======
+b2 is added
+>>>>>>> first
